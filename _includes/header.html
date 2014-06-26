@@ -1,0 +1,18 @@
+<header class="site-header">
+
+  <div class="wrap">
+
+    <nav class="site-nav">
+      <div class="trigger">
+        {% for page in site.pages %}
+          {% if page.url contains 'page' %} 
+          {% else %}
+             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %} 
+        {% endfor %}
+      </div>
+    </nav>
+
+  </div>
+
+</header>
