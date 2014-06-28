@@ -33,4 +33,7 @@ A minimal system requires the following package types : **a,ap,d,f,k,l,n**, and 
  
 2. [get the tagfiles]({{ site.url }}/assets/tagfiles.tar.gz)
 
+##Tag file Format:
+packagename: ACTION (SKP - SKIP;OPT - Optional;SKP - skip; ADD - Install)
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/kexpMNH2hvE" frameborder="0" allowfullscreen></iframe>
