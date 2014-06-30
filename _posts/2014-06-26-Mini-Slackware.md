@@ -20,7 +20,7 @@ Now that we have the obvious out of the way, we might ask some interesting quest
 
 **Q**: Why small?  
 **R**: I can use two types of answers one, is the fact that security wise any package in a production system can be used against the system it self.   
-The other is that a production system needs to have a role when that role is defined you well exclude things that will be around taking space memory and cpu time for nothing.  
+The other is that a production system needs to have a role when that role is defined you will exclude things that will be around taking space memory and cpu time for nothing.  
 
 **Q**: Do i have to choose all packages 1 by 1 ?  
 **R**: No, if you don't know about tag files, by the end of this post you will love them.  
