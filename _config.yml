@@ -7,7 +7,7 @@ timezone: Europe/Lisbon
 encoding: utf-8
 # Build settings
 markdown: kramdown
-permalink: /:category/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
 safe: true
 lsi: false
 source: ""
