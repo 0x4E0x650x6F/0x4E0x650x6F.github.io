@@ -56,7 +56,7 @@ A web developer is usual familiar with HTTP, I mean familiar because most of the
 (yes this have happed!)....  
 Here's a list of the things that they're not used to deal with!.  
 
-1. **Encryption**:  9-10, They will tell you that its safe to use MD5 or SAH-1. (Not true anymore sorry!).
+1. **Encryption**:  9-10, They will tell you that its safe to use MD5 or SHA-1. (Not true anymore sorry!).
 2. **Concurrency**: This is a scary thing! most of them will run away as soon as you say the word... 
 3. **Random**: Hot topic, most the then don't even know how random numbers are actualy generated! (but they use them....)
 4. **C** Yes plain old **C** i realy think that you can't Call your self a Developer unless you know the machine, you can call your self (X language) Developer but not a developer...
@@ -71,7 +71,7 @@ not just because apis got better but because the people that work with does lang
 Now look at the Web Development Sql, Cross site scripting, Cross site request forgery they are all old news, and they don't go away why is that?   
 The last one is a clear evidence of their lack of knowledge on HTTP, the protocol that they all have to use.  
 
-Products are now sold in many ways, as a service, installed locally, but most of them WEB, and every one likes to have their logo on the page looks cool, and is also good for business!  
+Products are now sold in many ways, as a service, installed locally, but most of them WEB, and everyone likes to have their logo on the page looks cool, and is also good for business!  
 Some one once told me this while back when I was a junior developer "for a hammer everything looks like a nail", this is how they see enterprise needs.  
 
 The story goes something like this!  
