@@ -7,12 +7,12 @@ timezone: Europe/Lisbon
 encoding: utf-8
 # Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title
 safe: true
 lsi: false
 source: ""
 excerpt_separator: "<!-- more -->"
-paginate: 1
-paginate_path: "/blog/page:num/"
+paginate: 10
+paginate_path: "/posts/page:num/"
 #layout 
 username: 0x4E0x650x6F

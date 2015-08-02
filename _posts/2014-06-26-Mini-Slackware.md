@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Slackware Minimal System
-category: blog
+categories: [linux, slackware]
 ---
 
 The objective of this post is to give a jump start, and establish a working base, although this is a Minimal system created to address a production systems needs, there are things that are left out, so its not production ready.

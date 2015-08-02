@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Enterprise Web Applications, Crack Once Hack Everywhere
-category: blog
+categories: [security, Web Applications]
 ---
 
 Long time since i posted, Vulnerability hunting have kept me busy. FUN FUN :).  
