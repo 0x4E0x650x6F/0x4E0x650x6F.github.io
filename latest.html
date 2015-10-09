@@ -1,0 +1,11 @@
+---
+layout: default
+title:  Latest posts 
+---
+<ul class="posts">  
+	{% for post in site.posts limit:5 %}  
+	   <li>  
+	       {% include post_detail.html %}
+	   </li>  
+	{% endfor %}  
+</ul>

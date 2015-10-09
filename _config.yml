@@ -12,7 +12,7 @@ safe: true
 lsi: false
 source: ""
 excerpt_separator: "<!-- more -->"
-paginate: 10
+paginate: 13
 paginate_path: "/posts/page:num/"
 #layout 
 username: 0x4E0x650x6F
