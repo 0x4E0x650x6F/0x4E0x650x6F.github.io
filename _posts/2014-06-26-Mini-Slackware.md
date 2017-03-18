@@ -25,7 +25,7 @@ The other is that a production system needs to have a role when that role is def
 **Q**: Do i have to choose all packages 1 by 1 ?  
 **R**: No, if you don't know about tag files, by the end of this post you will love them.  
 
-##Tag files:
+## Tag files:
 
 Tag files are text files in the slackware install media they are used to assist the setup scripts what to install.
 The Slackware dvd packages are organized by type: **a,ap,d,e,f,k,kde,kdei,l,n,t,tcl,x,xap,xfce,y**.
@@ -33,7 +33,7 @@ A minimal system requires the following package types : **a,ap,d,f,k,l,n**, and 
  
 2. [get the tagfiles]({{ site.url }}/assets/tagfiles.tar.gz)
 
-##Tag file Format:
+## Tag file Format:
 packagename: ACTION (SKP - SKIP;OPT - Optional;SKP - skip; ADD - Install)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/kexpMNH2hvE" frameborder="0" allowfullscreen></iframe>

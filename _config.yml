@@ -3,6 +3,7 @@ title: 0x4E0x650x6F
 description: "0x4E0x650x6F"
 baseurl: ""
 url: "http://www.tiagoalexandre.com"
+#url: "http://127.0.0.1"
 timezone: Europe/Lisbon
 encoding: utf-8
 # Build settings
@@ -16,3 +17,4 @@ paginate: 13
 paginate_path: "/posts/page:num/"
 #layout 
 username: 0x4E0x650x6F
+gems:      [jekyll-paginate]

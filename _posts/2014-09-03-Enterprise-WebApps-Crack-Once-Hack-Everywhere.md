@@ -8,14 +8,14 @@ Long time since i posted, Vulnerability hunting have kept me busy. FUN FUN :).
 Enterprise Web applications are old news, they are everywere. 
 In this post i will talk about what seems to escape everyone, well not everyone...  
 
-##Web Applications
+## Web Applications
 One of the main reasons for the success of the web applications, is due to how easy they are to deploy.  
 Fat client free workstations, allowed the illusion of simplicity, lower costs, and safety. but they were so wrong.   
 
-##Lower Costs
+## Lower Costs
 This is probably the biggest Con ever sold! in IT.  
 
-###Datacenter Before Web Applications.  
+### Datacenter Before Web Applications.  
 
 1. Domain.
 2. Dns. 
@@ -28,7 +28,7 @@ The costs would be around the maintenance of all the workstations and keeping th
 That's heavy work, and why maintenance and support teams where big.  
 But the OS updates would force them to update, or deal with some painful incompatibilities (This made things safer!).  
 
-###Datacenter, After Web Applications.
+### Datacenter, After Web Applications.
 
 1. Domain.
 2. Dns. 
@@ -45,11 +45,11 @@ The applications updates lost priority, and since Web Applications struggle with
 That is a synonym for (Low quality work), basically how skilled the development team actually is.  
 I usually calculate this by the number of browsers supported! (the lower the number lower the skill), single browser means amateur work, usually the kind you will likely receive when working with consulting company. 
 
-###This is where the fun begins! 
+### This is where the fun begins! 
 
 See most of does companyes are only interested on selling their consultants not their work! reason why their work force is usualy full of junior developers. 
 
-##Web Applications and Web Developers
+## Web Applications and Web Developers
 
 Their skills are very diferent, although most of the people seem to ignore.  
 A web developer is usual familiar with HTTP, I mean familiar because most of them seem to ignore the fact that you don't need a browser to call anything listening with HTTP!
@@ -82,7 +82,7 @@ The story goes something like this!
 **Q**:Now what does this have to do security?  
 **R**:Stay with me, i saved the best for last.   
 
-##So what's wrong!
+## So what's wrong!
 
 In a way Web applications had some advantages, the need to do more in less time lead to new programming languages, (so called safe! programming languages),
 if that would be true all security companies would be out of business.  
@@ -123,7 +123,7 @@ But this are not alone.
 They are all behind the ilusion, the idea that internal systems are safe because their are not exposed to the internet.  
 Well as usual there wrong.
 
-##Users
+## Users
 All comes down to their users, they need the internet to do their work among other more personal things (the ones that can).  
 If you're not convinced ask your selfs this.
 
