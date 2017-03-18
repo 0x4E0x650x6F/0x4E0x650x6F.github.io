@@ -27,7 +27,7 @@ To demostrate this I made other video, this time explaining how one could brute-
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/h5fsRl_Fovg" frameborder="0" allowfullscreen></iframe>
 
-###Moral of the story 
+### Moral of the story 
 
 Don't use wordpress :) but if you really have to use it here are my suggestions: 
 
