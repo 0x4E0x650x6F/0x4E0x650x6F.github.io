@@ -29,7 +29,7 @@ One of the things i wasn't able to share with the guys at the time was some of m
 
 It's a small tool to clean maintain and normalize wordlists, the main objective is to be able to remove what is not usefull like **html tags, spaces, tabs empty lines** sort and remove duplicates but also say how much as removed and even what was removed.  
 
-Wordlists are frequently at the hart of the password cracking task, its scary to even think that one of your ***wordlist fu** actually removed a password you needed, and this was the main reason why i end up building a tool.  
+Wordlists are frequently at the hart of the password cracking task, its scary to even think that one of your **wordlist fu** actually removed a password you needed, and this was the main reason why i end up building a tool.  
 
 {% highlight bash %}
 [*]	Wellcome to wordlist processor
@@ -48,7 +48,7 @@ optional arguments:
   -s, --sort        Sorts the wordlist
 {% endhighlight %}
 
-The project is built in **python**  for now the performance is within the acceptable range, and is ready to handle gigabyte size wordlists. I'm not a fan of scripting tools as they are usually slow, but scripting is nice to build small **poc's** and after the performance results  will usualy tell me if it would be best to be implemented in plain old and allways performant **C**. 
+The project is built in **python**  for now the performance is within the acceptable range, and is ready to handle gigabyte size wordlists. I'm not a fan of scripting tools as they are usually slow, but scripting is nice to build small **poc's** and the performance results usualy tell me if it would be best to be implemented in plain old and allways performant **C**. 
 
 The output of the tool looks somthing like the follwing:
 
