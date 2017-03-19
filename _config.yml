@@ -34,18 +34,7 @@ lsi: false
 markdown: kramdown
 incremental: false
 permalink: /:categories/:year/:month/:day/:title
-paginate_path: "/posts/page:num/"
-
-collections:
-  systems:
-    output: true
-
-defaults:
-  scope:
-    path: ""
-    type: "posts"
-  values:
-    layout: "page" 
+paginate_path: "page:num/"
 
 excerpt_separator: "<!-- more -->"
 paginate: 13

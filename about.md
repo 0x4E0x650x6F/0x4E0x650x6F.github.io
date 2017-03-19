@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title:  About
 permalink: /about/
+order:   6
 ---
  
 The person behind the blog. 

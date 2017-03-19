@@ -1,7 +1,12 @@
 ---
 layout: default
 title:  Latest posts 
+order:  2
 ---
+<header class="post-header">
+    <h1>Latest posts</h1>
+</header>
+
 <ul class="posts">  
 	{% for post in site.posts limit:5 %}  
 	   <li>  

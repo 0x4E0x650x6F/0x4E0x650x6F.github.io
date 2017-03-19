@@ -1,7 +1,7 @@
 ---
 layout: page 
 title :  Install Openvas 8 with Postgres on Kali linux Rolling
-categories : [security, Kali Linux]
+categories : [linux, os, Kali Linux]
 ---
 
 This one is something that took quite some time to pull off while searching, most of the information I found was either wrong or incomplete, so here we go.  

@@ -1,0 +1,17 @@
+---
+layout: default
+title:  Operating Systems
+order:  3
+---
+<header class="post-header">
+    <h1>Operating Systems</h1>
+</header>
+<ul class="posts"> 
+	{% for post in site.posts %}
+		{% if post.categories contains 'linux' %}
+	   		<li>  
+	       	 {% include post_detail.html %}
+		   </li> 
+		  {% endif %}
+	{% endfor %}  
+</ul>
