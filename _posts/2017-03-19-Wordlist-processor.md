@@ -10,7 +10,7 @@ The last year end up been a cool year with a great end, i was speaker at two eve
 
 Every thing started some time ago after googling around about password cracking, that i first shared  with my colleagues after a small  poc, and since to me everything less then 100% isn't worth spending time doing, i "went all in", end up to cracking every single hash. 
 
-I been trying to be more active in the community and share something, whell this year the guys from **BSides Lisbon 2016** were kind enough to give me a shot in the **Lightning Talk**, and to my own astonishment i won the round and end up meating some preaty cool people, so i guess i will see you guys their next year :). 
+I been trying to be more active in the community and share something, whell this year the guys from **BSides Lisbon 2016** were kind enough to give me a shot in the **Lightning Talk**, and to my own astonishment i won the round and end up meeting some preaty cool people, so i guess i will see you guys their next year :). 
  
 <iframe width="560" height="315" src="//www.youtube.com/embed/ISjXpYfnnMw" frameborder="0" allowfullscreen></iframe>
 
@@ -29,7 +29,7 @@ One of the things i wasn't able to share with the guys at the time was some of m
 
 It's a small tool to clean maintain and normalize wordlists, the main objective is to be able to remove what is not usefull like **html tags, spaces, tabs empty lines** sort and remove duplicates but also say how much as removed and even what was removed.  
 
-Wordlists are frequently at the hart of the password cracking task, its scary to even think that one of your **wordlist fu** actually removed a password you needed, and this was the main reason why i end up building a tool.  
+Wordlists are frequently at the heart of the password cracking task, its scary to even think that one of your **wordlist fu** actually removed a password you needed, and this was the main reason why i end up building a tool.  
 
 {% highlight bash %}
 [*]	Wellcome to wordlist processor
