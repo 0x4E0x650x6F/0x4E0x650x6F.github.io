@@ -6,7 +6,7 @@ categories : [tools, password cracking]
 
 Happy new year.  ( yeah.i know i been busy )
 
-The last year end up been a cool year with a great end, i was speaker at two events with i been working on for while now **password cracking**. 
+The last year end up been a cool year with a great end, i was speaker at two events with something i been working on for while now **password cracking**. 
 
 Every thing started some time ago after googling around about password cracking, that i first shared  with my colleagues after a small  poc, and since to me everything less then 100% isn't worth spending time doing, i "went all in", end up to cracking every single hash. 
 
