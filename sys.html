@@ -1,0 +1,11 @@
+---
+layout: default
+title:  Operating Systems
+---
+<ul class="posts">  
+	{% for post in site.systems limit:5 %}  
+	   <li>  
+	       {% include post_detail.html %}
+	   </li>  
+	{% endfor %}  
+</ul>
