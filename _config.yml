@@ -2,19 +2,42 @@
 title: 0x4E0x650x6F 
 description: "0x4E0x650x6F"
 baseurl: ""
-url: "http://www.tiagoalexandre.com"
-#url: "http://127.0.0.1"
+# url: http://www.tiagoalexandre.com
 timezone: Europe/Lisbon
+detach:  false
+port: 4000
+host: 127.0.0.1
+show_dir_listing: false
+
+# Handling Reading
 encoding: utf-8
+safe: false
+
+# Where things are
+source: .
+destination:  ./_site
+layouts_dir:  _layouts
+includes_dir: _includes
+
+# Plugins
+whitelist: []
+gems:      [jekyll-paginate]
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
+
 # Build settings
-markdown: kramdown
-permalink: /:categories/:year/:month/:day/:title
-safe: true
 lsi: false
-source: ""
+markdown: kramdown
+incremental: false
+permalink: /:categories/:year/:month/:day/:title
+paginate_path: "/posts/page:num/"
+# permalink:    date
+
 excerpt_separator: "<!-- more -->"
 paginate: 13
-paginate_path: "/posts/page:num/"
 #layout 
 username: 0x4E0x650x6F
-gems:      [jekyll-paginate]
