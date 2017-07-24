@@ -4,7 +4,7 @@ title : Strong Password change
 categories : [security, password cracking]
 ---
 
-Hey what's up, yeah i know its been a long time since i posted something.
+Hey what's up, yeah i know its been a long time since i posted something.  
 
 ## Strong password change
 
